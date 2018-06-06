@@ -10,7 +10,7 @@ describe('bubble-test', function () {
     let expected = [ 1, 2, 3, 4, 5 ];
 
     assert.deepEqual(actual, expected);
-  })
+  });
 
 });
 
